@@ -3,7 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "net-fundamentals", "net-fundamentals.csproj", "{0DBBBB33-B01A-46B0-9CD8-5EF7DDD99379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net-fundamentals-commom", "net-fundamentals-commom\net-fundamentals-commom.csproj", "{64A26BBE-BA66-47E9-9DDC-2882DE0588A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net-fundamentals", "net-fundamentals\net-fundamentals.csproj", "{7C997755-AB56-402F-AC27-89764731AD8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +18,14 @@ Global
 		{0DBBBB33-B01A-46B0-9CD8-5EF7DDD99379}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DBBBB33-B01A-46B0-9CD8-5EF7DDD99379}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DBBBB33-B01A-46B0-9CD8-5EF7DDD99379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A26BBE-BA66-47E9-9DDC-2882DE0588A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A26BBE-BA66-47E9-9DDC-2882DE0588A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A26BBE-BA66-47E9-9DDC-2882DE0588A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A26BBE-BA66-47E9-9DDC-2882DE0588A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C997755-AB56-402F-AC27-89764731AD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C997755-AB56-402F-AC27-89764731AD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C997755-AB56-402F-AC27-89764731AD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C997755-AB56-402F-AC27-89764731AD8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

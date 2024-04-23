@@ -1,4 +1,12 @@
-﻿using net_fundamentals.Models;
+﻿using net_fundamentals.Commom.Models;
+
+Pessoa pessoa = new()
+{
+  Nome = "Alberto",
+  Idade = 21
+};
+
+pessoa.Apresentar();
 
 // double raiz = Math.Sqrt(25);
 // Console.WriteLine(raiz);
